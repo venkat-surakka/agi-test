@@ -13,6 +13,8 @@ import org.testng.annotations.Test;
 public class headerTestSuite 
 {
 	WebDriver driver;
+	
+	// Comments added by Venkat Surakka
 
 	@BeforeSuite
 	public void setup()
